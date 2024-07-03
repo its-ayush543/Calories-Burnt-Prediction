@@ -27,7 +27,7 @@ Ensure you have the following dependencies installed to run the project:
 
 ## Files
 - `README.md`: Overview of the project, installation instructions, and usage guidelines.
-- `calories_burnt_prediction.ipynb`: Google Colab notebook containing the code for data preprocessing, model training, and evaluation.
+- `Calories_Burnt_Wrediction.ipynb`: Google Colab notebook containing the code for data preprocessing, model training, and evaluation.
 
 
 
